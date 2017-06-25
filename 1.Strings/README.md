@@ -163,7 +163,7 @@ int decrypted = 0;
                         Console.WriteLine(decryptedString);  //Logging decryptedString
 
                         instructions[i].OpCode = OpCodes.Ldstr;   
-                        instructions[i].Operand = decryptionKey;   //replacing call with ldstr (load string) and assigning to return decrypted string
+                        instructions[i].Operand = decryptedString;   //replacing call with ldstr (load string) and assigning to return decrypted string
                         instructions[i - 1].OpCode = OpCodes.Nop;
                         instructions[i - 2].OpCode = OpCodes.Nop;  //nopping parameters
 
