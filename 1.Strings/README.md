@@ -197,3 +197,5 @@ And finaly we save deobfsucated assembly
 
             Console.WriteLine("Saved {0}", newPath);  //logging where its saved
 ```
+
+![image](https://user-images.githubusercontent.com/12687236/27517582-4bb1ec86-59cf-11e7-90b2-333e98a51a31.png)
