@@ -22,7 +22,7 @@ Ofcourse there could be some preventions for boath to work such as using name of
 
 ## Static Decryption  
 In this example i will use files protected by Yano Obfsucator.
-So as i sad in static decryption we try to decompile Decrrytion method and use it in our decrypter code.
+So as i sad in static decryption we try to decompile Decryption method and use it in our decrypter code.
 
 ### 1.Decompiling decryption method
 First thing what we will do is to find decryption method and try to decompile it.
