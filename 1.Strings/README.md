@@ -5,7 +5,7 @@ String encryption is common protection in obfuscators and it encrypts strings to
 
 ![image](https://user-images.githubusercontent.com/12687236/27516110-f72fb222-59b2-11e7-88cd-b73a35cd994a.png)
 
-Structure of string decryption rutine is
+Structure of string decryption routine is
   1.Decryption Method
   2.Parameters 
 
@@ -173,7 +173,7 @@ int decrypted = 0;
             Console.WriteLine("Decrypted {0} strings", decrypted);
 ```
 
-### Removing junk and saving assembly
+### 6.Removing junk and saving assembly
 Now we can remove decryption method and also because its only method in Class (Type) we can remove whole Class 
 ![image](https://user-images.githubusercontent.com/12687236/27517390-0d7ca36e-59cc-11e7-8593-c9d098a38e6c.png)
 ```
