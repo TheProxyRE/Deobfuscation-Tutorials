@@ -1,1 +1,1 @@
-# Deobfsucation Tutorials by TheProxy
+# Deobfuscation Tutorials by TheProxy
